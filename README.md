@@ -2,8 +2,8 @@
 ### My name is Bereket
 
 - 🔭 I’m currently working on learning how to contribute to an open source on GitHub
-- 🌱 I’m currently learning Python programming language
-- 👯 I’m looking to collaborate on python on Django projects
+- 🌱 I’m currently learning how to write smart contract and DApps for Cardano Blockchain
+- 👯 I’m looking to collaborate on projects which will help me master Functional programming language, Haskell
 - 📫 [My LinkedIn Profile](https://www.linkedin.com/in/bereketgodebo)
 
 <!--
