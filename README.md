@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on learning how to contribute to an open source on GitHub
 - 🌱 I’m currently learning how to write smart contracts and DApps for Cardano Blockchain using Plutus Platform
-- 👯 I’m looking to collaborate on projects which will help me master Functional programming language, Haskell
+- 👯 I’m looking to collaborate on projects which will help me learn more about, the Functional programming language, Haskell
 - 📫 [My LinkedIn Profile](https://www.linkedin.com/in/bereketgodebo)
 
 <!--
