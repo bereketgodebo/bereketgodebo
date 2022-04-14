@@ -2,7 +2,15 @@
 ### My name is Bereket
 
 - 🔭 I’m currently working on learning how to contribute to an open source on GitHub
-- 🌱 I’m currently learning Java and Kotlin to develope web and mobile applications
+- 🌱 I’m currently building... 
+```     
+       [ (oneAspect, subject) 
+       | oneAspect <- lifeExperience
+       , subject <- studies
+       , isGoodForCareerBuilding oneAspect
+       , isMajor subject
+       ]
+```
 - 👯 I’m looking to collaborate on projects which will help me learn Java and Kotlin
 - 📫 [My LinkedIn Profile](https://www.linkedin.com/in/bereketgodebo)
 
