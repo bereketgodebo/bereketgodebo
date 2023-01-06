@@ -11,7 +11,7 @@
        , isMajor subject
        ]
 ```
-- 👯 I’m looking to collaborate on projects which will help me learn Java and Kotlin
+- 👯 I’m looking to collaborate on projects which will help me learn Python and Rust
 - 📫 [My LinkedIn Profile](https://www.linkedin.com/in/bereketgodebo)
 
 <!--
